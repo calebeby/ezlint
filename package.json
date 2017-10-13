@@ -1,0 +1,12 @@
+{
+  "name": "ezlint",
+  "bin": "./index.js",
+  "dependencies": {
+    "eslint": "^4.8.0",
+    "eslint-formatter-pretty": "^1.3.0"
+  },
+  "eslintConfig": {
+    "extends": "static-dev-core"
+  },
+  "license": "MIT"
+}
